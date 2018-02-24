@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=C\:\\Users\\DELL\\git;
-GitRepositoriesView.GitDirectories.relative=C\:\\Users\\DELL\\git;
+GitRepositoriesView.GitDirectories=C\:\\Users\\DELL\\git;G\:\\Spring_4\\.git;
+GitRepositoriesView.GitDirectories.relative=C\:\\Users\\DELL\\git;.git;
 core_preferredMergeStrategy=jgit-default-mergeStrategy
 eclipse.preferences.version=1
