@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 2 elements from project &apos;15Spring4ExceptionMVC&apos;&#x0D;&#x0A;- Original project: &apos;15Spring4ExceptionMVC&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     12Spring4ExceptionMVC-1.0.0-BUILD-SNAPSHOT&#x0D;&#x0A;     12Spring4ExceptionMVC-1.0.0-BUILD-SNAPSHOT.war" description="Delete elements" element1="target/12Spring4ExceptionMVC-1.0.0-BUILD-SNAPSHOT" element2="target/12Spring4ExceptionMVC-1.0.0-BUILD-SNAPSHOT.war" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="2" stamp="1495951626235" subPackages="false" version="1.0"/>
+</session>

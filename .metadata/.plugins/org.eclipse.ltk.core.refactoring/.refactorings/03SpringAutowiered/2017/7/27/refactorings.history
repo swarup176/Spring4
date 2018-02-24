@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;03SpringAutowiered&apos;&#x0D;&#x0A;- Original project: &apos;03SpringAutowiered&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     03SpringAutowiered/src/com.cts.aop&#x0D;&#x0A;     Beans.xml&#x0D;&#x0A;     help.txt" description="Delete elements" element1="src/help.txt" element2="src/Beans.xml" element3="/src&lt;com.cts.aop" element4="/src&lt;com.cts" element5="/src&lt;com" elements="3" flags="589830" id="org.eclipse.jdt.ui.delete" resources="2" stamp="1498993255565" subPackages="false" version="1.0"/>
+</session>

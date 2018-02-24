@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 packages to &apos;03SpringAutowiered/src&apos;&#x0D;&#x0A;- Original project: &apos;06SpringAnnotationWithMaven&apos;&#x0D;&#x0A;- Destination element: &apos;03SpringAutowiered/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     06SpringAnnotationWithMaven/src/main/java/com.websystique.spring.config&#x0D;&#x0A;     06SpringAnnotationWithMaven/src/main/java/com.websystique.spring&#x0D;&#x0A;     06SpringAnnotationWithMaven/src/main/java/com.websystique.spring.domain" description="Copy packages" destination="=03SpringAutowiered/src" element1="/src\/main\/java&lt;com.websystique.spring.config" element2="/src\/main\/java&lt;com.websystique.spring" element3="/src\/main\/java&lt;com.websystique.spring.domain" flags="589830" fragments="3" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1498993270925" version="1.0"/>
+</session>

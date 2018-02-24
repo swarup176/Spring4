@@ -1,0 +1,4 @@
+1495858099087	Rename resource 'spring_context.xml'
+1495858126616	Rename resource 'spring_servelet.xml'
+1495858645612	Rename package 'com.mkyong.helloworld.config'
+1495860766960	Move 'resources' to '08_spring_hellow_world_MVC'

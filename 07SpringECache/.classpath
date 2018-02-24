@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Apache Common"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Spring 4"/>
+	<classpathentry kind="lib" path="G:/Spring_4/Spring Libary/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="G:/Spring_4/Spring Libary/Spring Cache/ehcache-2.10.2.2.21.jar"/>
+	<classpathentry kind="lib" path="G:/Spring_4/Spring Libary/Spring Cache/logback-classic-1.1.7.jar"/>
+	<classpathentry kind="lib" path="G:/Spring_4/Spring Libary/Spring Cache/logback-core-1.1.7.jar"/>
+	<classpathentry kind="lib" path="G:/Spring_4/Spring Libary/Spring Cache/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;08Spring4-JPA2-Hibernate4&apos;&#x0D;&#x0A;- Original project: &apos;08Spring4-JPA2-Hibernate4&apos;&#x0D;&#x0A;- Original element: &apos;build.gradle&apos;" description="Delete element" element1="build.gradle" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="1" stamp="1494865684672" subPackages="false" version="1.0"/>
+</session>

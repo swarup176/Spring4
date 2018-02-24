@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;MyEncoder.java&apos; to &apos;19_spring_hellow_world_security_MVC/src/org.java.springsecurity&apos;&#x0D;&#x0A;- Original project: &apos;SpringSecurityTutorial-master&apos;&#x0D;&#x0A;- Destination element: &apos;19_spring_hellow_world_security_MVC/src/org.java.springsecurity&apos;&#x0D;&#x0A;- Original element: &apos;org.java.springsecurity.MyEncoder.java&apos;" description="Copy compilation unit" destination="=19_spring_hellow_world_security_MVC/src&lt;org.java.springsecurity" element1="/src\/test\/java&lt;org.java.springsecurity{MyEncoder.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1499320384453" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.mkyong.web.controller&apos; to &apos;com.cts.web.controller&apos;&#x0D;&#x0A;- Original project: &apos;08spring-hello-worldMVC&apos;&#x0D;&#x0A;- Original element: &apos;08spring-hello-worldMVC/src/main/java/com.mkyong.web.controller&apos;&#x0D;&#x0A;- Renamed element: &apos;08spring-hello-worldMVC/src/main/java/com.cts.web.controller&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.mkyong.web.controller&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;com.mkyong.web.controller" name="com.cts.web.controller" qualified="false" references="true" stamp="1495855522348" textual="false" version="1.0"/>
+</session>

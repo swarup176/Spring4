@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd">
+<beans>
+    <bean id="loginClass" class="com.action.Login" >
+    	<property name="message" value="Hello World!" />
+    	 <property name="dataSource" ref="dataSource"/>
+    	 <property name="sampleDelegate" ref="sampleDelegate"/>
+    	
+    </bean>
+     <bean id="sampleDelegate" class="com.cts.delegates.SampleDelegate" />
+     <bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource" destroy-method="close">
+        <property name="driverClassName" value="oracle.jdbc.driver.OracleDriver"/>
+        <property name="url" value="jdbc:oracle:thin:localhost:1521/orlc"/>
+        <property name="username" value="system"/>
+        <property name="password" value="system"/>
+    </bean>
+    
+</beans>
+
+
