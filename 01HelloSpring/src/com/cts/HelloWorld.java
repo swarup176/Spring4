@@ -10,7 +10,7 @@ import org.springframework.stereotype.Component;
 
 public class HelloWorld {
    private String message;
-
+   
    public void setMessage(String message){
       this.message  = message;
    }
@@ -19,7 +19,7 @@ public class HelloWorld {
    }
    @PostConstruct
    void testPostConstruct(){
-	   System.out.println(" I am hello world PostConstruct");
+	   System.out.println(" I am hello world PostConstruct,,,,,,,, gandu......");
    }
    
    @PreDestroy

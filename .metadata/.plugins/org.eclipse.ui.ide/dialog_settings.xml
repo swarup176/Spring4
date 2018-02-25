@@ -12,6 +12,7 @@
 		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="G:\Spring_4\01HelloSpring"/>
 			<item value="G:\Spring_4\19_spring_hellow_world_security_MVC"/>
 			<item value="G:\Spring_4\07SpringECache"/>
 			<item value="G:\Spring_4\Spring4MVCContentNegotiatingViewResolverExample"/>
